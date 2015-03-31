@@ -1,11 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
-import java.net.*;
-import java.util.*;
-import java.util.regex.*;
-import javax.swing.*;
-import javax.swing.table.*;
+
 
 // The Search Web Crawler
 public class SearchCrawler extends JFrame
